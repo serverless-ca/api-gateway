@@ -15,4 +15,4 @@ def lambda_handler(event, context):  # pylint: disable=unused-argument
     logging.info("Received event: %s", json.dumps(event, indent=2))
 
     headers = {"Content-Type": "application/json"}
-    return {"statusCode": 200, "headers": headers, "body": message}
+    return {"statusCode": 200, "headers": headers, "body": json.dumps(message)}
