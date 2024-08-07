@@ -1,7 +1,7 @@
 # api-gateway
 Amazon API Gateway for mTLS testing with open-source cloud certificate authority
 
-> 📖 use in conjunction with blog post [API Gateway mTLS with open-source cloud CA](https://medium.com)
+> 📖 use in conjunction with blog post [API Gateway mTLS with open-source cloud CA](https://medium.com/@paulschwarzenberger/api-gateway-mtls-with-open-source-cloud-ca-3362438445de)
 
 ![Alt text](images/api-gateway-with-truststore.png?raw=true "API Gateway mTLS")
 
